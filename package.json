@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/jayasri0099/git-hooks-nodejs#readme",
   "devDependencies": {
-    "jest": "^27.4.5"
-  }
+    "husky": "^4.3.8",
+    "jest": "^27.4.5",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit": [
+    "test"
+  ]
 }
