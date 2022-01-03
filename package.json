@@ -1,0 +1,20 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "play with git-hooks-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayasri0099/git-hooks-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayasri0099/git-hooks-nodejs/issues"
+  },
+  "homepage": "https://github.com/jayasri0099/git-hooks-nodejs#readme"
+}
